@@ -16,13 +16,13 @@ import{RouterView, RouterLink} from "vue-router"
           <router-link class="nav-link active" id="" to="/">Home</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link active" id="" to="/customer">Customers</router-link>
+          <router-link class="nav-link active" id="" to="/customer">Clients</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link active" id="" to="/employee">Employees</router-link>
+          <router-link class="nav-link active" id="" to="/employee">Instructors</router-link>
         </li>
         <li class="nav-item">
-          <router-link class="nav-link active" id="" to="/category">Categories</router-link>
+          <router-link class="nav-link active" id="" to="/category">Groups</router-link>
         </li>
       </ul>
     </div>
